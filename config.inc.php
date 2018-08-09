@@ -30,7 +30,7 @@ ini_set('memory_limit','512M');
 $CALENDAR_DISPLAY = 'true';
 $USE_RTE = 'true'; 
 
-
+//chnage file
 
 // helpdesk support email id and support name (Example: 'support@vtiger.com' and 'vtiger support')
 $HELPDESK_SUPPORT_EMAIL_ID = 'divyesh@gmail.com';
