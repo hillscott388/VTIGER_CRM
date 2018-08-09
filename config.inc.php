@@ -28,7 +28,9 @@ ini_set('memory_limit','512M');
 // show or hide calendar, world clock, calculator, chat and CKEditor 
 // Do NOT remove the quotes if you set these to false! 
 $CALENDAR_DISPLAY = 'true';
-$USE_RTE = 'true';
+$USE_RTE = 'true'; 
+
+
 
 // helpdesk support email id and support name (Example: 'support@vtiger.com' and 'vtiger support')
 $HELPDESK_SUPPORT_EMAIL_ID = 'divyesh@gmail.com';
